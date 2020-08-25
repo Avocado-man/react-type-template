@@ -1,7 +1,7 @@
 import React from 'react'
-import './App.css'
+import './App.scss'
 
-function App() {
+const App: React.FC = (): JSX.Element => {
     return <div className="App" />
 }
 
