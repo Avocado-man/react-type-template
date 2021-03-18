@@ -3,17 +3,17 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "@testing-library/jest-dom": "^4.2.4",
-        "@testing-library/react": "^9.3.2",
-        "@testing-library/user-event": "^7.1.2",
-        "@types/jest": "^24.0.0",
-        "@types/node": "^12.0.0",
-        "node-sass": "^4.14.1",
+        "@testing-library/jest-dom": "^5.11.9",
+        "@testing-library/react": "^11.2.5",
+        "@testing-library/user-event": "^13.0.1",
+        "@types/jest": "^26.0.21",
+        "@types/node": "^14.14.35",
+        "node-sass": "^5.0.0",
         "normalize.css": "^8.0.1",
-        "react": "^16.13.1",
-        "react-dom": "^16.13.1",
-        "react-scripts": "3.4.3",
-        "typescript": "~3.7.2"
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1",
+        "react-scripts": "4.0.3",
+        "typescript": "~4.2.3"
     },
     "scripts": {
         "start": "react-scripts start",
@@ -39,17 +39,17 @@
         ]
     },
     "devDependencies": {
-        "@types/react": "^16.9.46",
-        "@types/react-dom": "^16.9.8",
-        "eslint-config-airbnb-typescript-prettier": "^3.1.0",
-        "prettier": "^2.1.0",
-        "stylelint": "^13.7.0",
+        "@types/react": "^17.0.3",
+        "@types/react-dom": "^17.0.2",
+        "eslint-config-airbnb-typescript-prettier": "^4.2.0",
+        "prettier": "^2.2.1",
+        "stylelint": "^13.12.0",
         "stylelint-config-rational-order": "^0.1.2",
-        "stylelint-config-standard": "^20.0.0",
+        "stylelint-config-standard": "^21.0.0",
         "stylelint-declaration-use-variable": "^1.7.2",
-        "stylelint-high-performance-animation": "^1.5.0",
+        "stylelint-high-performance-animation": "^1.5.2",
         "stylelint-order": "^4.0.0",
-        "stylelint-scss": "^3.16.0"
+        "stylelint-scss": "^3.19.0"
     },
     "stylelint": {
         "extends": [
